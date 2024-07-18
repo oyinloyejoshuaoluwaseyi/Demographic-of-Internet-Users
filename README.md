@@ -25,4 +25,14 @@ In 2020, over 417 thousand people used the internet. The aim and the objective i
   ## Data Analysis
   In 2020, over 417 thousand people used the internet. The gender makeup (male and female) was analyzed using cards, which led to the realization that there are more female internet users than male users. Total internet users were analyzed with respect to ethnic group and year, ethnic group, employment status, user status, year, and age group. Charts were represented in different visuals. All of these help in understanding the trend of Internet users. On the chart, while visualizing the ethnic group, I discovered that Pakistan has more users than the other six (6) ethnic groups. The employment status of users was analyzed, and I found that there are more unpaid families, followed by the self-employed, while we have retired as the least internet users. Age groups 45–54 have the highest numbers of internet users, while 75+ have the least. Slicer for Year and User Status was also created to ensure two (2) years each, and each user status was shown on the charts affected. 
   ## Data Visualization
-  ![](
+  ![Dashboard.PNG](https://github.com/oyinloyejoshuaoluwaseyi/Demographic-of-Internet-Users/blob/main/Dashboard.PNG)
+  
+  ![2013 and 2014.PNG](https://github.com/oyinloyejoshuaoluwaseyi/Demographic-of-Internet-Users/blob/main/2013%20and%202014.PNG)
+
+  ![2015 and 2016.PNG](https://github.com/oyinloyejoshuaoluwaseyi/Demographic-of-Internet-Users/blob/main/2015%20and%202016.PNG)
+
+  ![2017 and 2018.PNG](https://github.com/oyinloyejoshuaoluwaseyi/Demographic-of-Internet-Users/blob/main/2017%20and%202018.PNG)
+  
+  ![2019 and 2020.PNG](https://github.com/oyinloyejoshuaoluwaseyi/Demographic-of-Internet-Users/blob/main/2019%20and%202020.PNG)
+  
+  
