@@ -35,15 +35,16 @@ In 2020, over 417 thousand people used the internet. The aim and the objective i
   
   ![2019 and 2020.PNG](https://github.com/oyinloyejoshuaoluwaseyi/Demographic-of-Internet-Users/blob/main/2019%20and%202020.PNG)
   
-## Key Finndings
-- At 53205, 2020 had the highest Sum of Internet User Count and was 5.11% higher than 2013,which had the lowest Sum of Internet User Count at 50618.
-- Average Sum of Internet User Count was higher for 2016 (7,452.71) than 2015 (7,383.71).
-- Sum of Internet User Count for 2016 and 2015 diverged the most when the Ethnic Group was Chinese, when 2016 were 151 higher than 2015.
-- Unpaid family worker accounted for 17.30% of Sum of Internet User Count.
-- Across all 7 Employment Status, Sum of Internet User Count ranged from 40330 (Retired)to72151(Unpaid Family Workers).
-- Sum of Internet User Count for Female(208525)was higher than Male (208490).
-- Female accounted for 50.00% of Sum of Internet User Count.
-- Used in the last 3 months had the highest Sum of Internet User Count at 367759, followed by Never used at 41387 and Used over 3 months ago at 7869.
-- Used in the last 3 months accounted for 88.19% of Sum of Internet User Count.
-- At 53205, 2020 had the highest Sum of Internet User Count and was 5.11% higher than 2013, which had the lowest Sum of Internet User Count at 50618. 2020 accounted for 12.76% of Sum of Internet User Count
-- Across all 8 Year, Sum of Internet User Count ranged from 50618 to 53205.
+  ## Key Findings
+  - At 53205, 2020 had the highest Sum of Internet User Count and was 5.11% higher than 2013,which had the lowest Sum of Internet User Count at 50618.
+  - Average Sum of Internet User Count was higher for 2016 (7,452.71) than 2015 (7,383.71).
+  - Sum of Internet User Count for 2016 and 2015 diverged the most when the Ethnic Group was Chinese, when 2016 were 151 higher than 2015.
+  - Unpaid family worker accounted for 17.30% of Sum of Internet User Count.
+  - Across all 7 Employment Status, Sum of Internet User Count ranged from 40330 (Retired)to72151(Unpaid Family Workers).
+  - Sum of Internet User Count for Female(208525)was higher than Male (208490).
+  - Female accounted for 50.00% of Sum of Internet User Count.
+  - Used in the last 3 months had the highest Sum of Internet User Count at 367759, followed by Never used at 41387 and Used over 3 months ago at 7869.
+  - Used in the last 3 months accounted for 88.19% of Sum of Internet User Count.
+  - At 53205, 2020 had the highest Sum of Internet User Count and was 5.11% higher than 2013, which had the lowest Sum of Internet User Count at 50618. 2020 accounted for 12.76% of Sum of Internet User Count
+  - Across all 8 Year, Sum of Internet User Count ranged from 50618 to 53205.
+  ## Conclusion
