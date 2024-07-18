@@ -48,4 +48,4 @@ In 2020, over 417 thousand people used the internet. The aim and the objective i
   - At 53205, 2020 had the highest Sum of Internet User Count and was 5.11% higher than 2013, which had the lowest Sum of Internet User Count at 50618. 2020 accounted for 12.76% of Sum of Internet User Count
   - Across all 8 Year, Sum of Internet User Count ranged from 50618 to 53205.
   ## Conclusion
-  This data analysis provides valuable insights into the demographics of Internet Users. Understanding these characteristics can improve the low number of internet users, before an ethnic group, gender, and age group. All these will increase the number of internet users significantly in years to come. 
+  This data analysis provides valuable insights into the demographics of Internet Users. Understanding these characteristics can improve the low number of internet users, before an ethnic group, gender, and age group. All these will increase the number of internet users significantly in years to come.
