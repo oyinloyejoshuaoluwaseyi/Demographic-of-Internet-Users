@@ -15,7 +15,7 @@ In 2020, over 417 thousand people used the internet. The aim and the objective i
 - Key Findings
 - Conclusion
   ## Data Source
-  - The Data set used for this project was gotten from  **[ons](www.ons.gov.uk)**
+  - The dataset used for this project was gotten from  **[ons](www.ons.gov.uk)**
   - The data set is basically based on UK Internet User trend for a period between 2013 to 2020
   ## Methodology
   Microsoft Excel was explored for data wrangling, while I utilized Power BI to perform an in-depth analysis and create interactive visualizations. Power BI enabled me to transform raw data into meaningful insights with compelling visual reports that highlight key demographics and trends.
