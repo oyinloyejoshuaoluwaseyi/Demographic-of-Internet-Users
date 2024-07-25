@@ -16,11 +16,11 @@ In 2020, over 417 thousand people used the internet. The aim and the objective i
 - Conclusion
   ## Data Source
   - The dataset used for this project was gotten from  **[ons](www.ons.gov.uk)**
-  - The data set is basically based on UK Internet User trend for a period between 2013 to 2020
+  - The data set is basically based on UK Internet User trend for a period between 2013 to 2020 [Internet Users 2020](https://docs.google.com/spreadsheets/d/1byCLMVJTUoOMOa1vhGmHsaK1fpBlmIQj/edit?gid=82684843#gid=82684843)
   ## Methodology
   Microsoft Excel was explored for data wrangling, while I utilized Power BI to perform an in-depth analysis and create interactive visualizations. Power BI enabled me to transform raw data into meaningful insights with compelling visual reports that highlight key demographics and trends.
   ## Tools Utilized
-  - Microsoft Excel [Download Here](https://docs.google.com/spreadsheets/d/1byCLMVJTUoOMOa1vhGmHsaK1fpBlmIQj/edit?gid=82684843#gid=82684843)
+  - Microsoft Excel [Download Here](https://www.microsoft.com/en-us/microsoft-365/excel)
   - Microsoft Power Bi
   ## Data Analysis
   In 2020, over 417 thousand people used the internet. The gender (male and female) was analyzed using cards, which led to the realization that there are more female internet users than male users. Total internet users were analyzed, these include; ethnic group and year, ethnic group, employment status, user status, year, and age group. Charts were represented in different visuals. All of these help in understanding the trend of Internet users. On the chart, while visualizing the ethnic group, I discovered that Pakistan has more users than the other six (6) ethnic groups. The employment status of users was analyzed, and I found that there are more unpaid families, followed by the self-employed, while we have retired as the least internet users. Age groups 45–54 have the highest number of internet users, while 75+ have the least. Slicer for Year and User Status was also created to ensure two (2) years each, and each user status was shown on the charts affected. 
